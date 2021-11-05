@@ -5,7 +5,7 @@
 "info": "mnhawiseplay♥",
 "groups": [{
 "name":"Importar Listas","image": "https://i.imgur.com/YAaMwxN.png","stations":[
-  {"name": "Năm 2021","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/2021/README.w3u","import": "true"},
+  {"name": "Tháng 11","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/2021/thang11/README.w3u","import": "true"},
 ]},
-      {"name": "Năm 2021","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/2021/README.w3u"},
+      {"name": "Tháng 11","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/2021/thang11/README.w3u"},
 ]}
