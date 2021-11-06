@@ -5,9 +5,9 @@
 "info": "mnhawiseplay♥",
 "groups": [{
 "name":"Importar Listas","image": "https://i.imgur.com/YAaMwxN.png","stations":[
-  {"name": "VTV1 HD","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/README.w3u","import": "true"},
+  {"name": "VTV1 HD","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/README.w3u","import": "true"},
   {"name": "Cartoon Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/README.w3u","import": "true"},
 ]},
-      {"name": "VTV1 HD","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/README.w3u"},
+      {"name": "VTV1 HD","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/README.w3u"},
       {"name": "Cartoon Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/README.w3u"},
 ]}
