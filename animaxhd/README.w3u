@@ -1,1 +1,11 @@
-
+{"name": "Animax - Xem lại chương trình truyền hình",
+"author": "mnhawiseplayhearts",
+"image": "",
+"url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/README.w3u",
+"info": "mnhawiseplayhearts",
+"groups": [{
+"name":"Importar Listas","image": "https://i.imgur.com/YAaMwxN.png","stations":[
+  {"name": "Năm 2021","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/2021/README.w3u","import": "true"},
+]},
+      {"name": "Năm 2021","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/2021/README.w3u"},
+]}
