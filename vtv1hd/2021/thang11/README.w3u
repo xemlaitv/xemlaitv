@@ -3,7 +3,7 @@
 "image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png",
 "url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/2021/thang11/README.w3u",
 'stations': [
-{'name': '06:58 07/11/2021','image': 'https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png','url': 'https://mnha24.github.io/vtvgo-timeshift.vtvdigital.vn/77ba646c3775111df0653a834a118699/1636258867721/timeshift/tssrv01/vtv1/_definst_/20211107/vtv1-high-3334059.m3u8'},
-{'name': '05:30 07/11/2021','image': 'https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png','url': 'https:/mnha25.github.io/vtvgo-timeshift.vtvdigital.vn/9ef84c6583fd2c0fc3968db9526575a1/1636259348981/timeshift/tssrv01/vtv1/_definst_/20211107/vtv1-high-3334056.m3u8'},
-{'name': '17:22 06/11/2021','image': 'https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png','url': 'https://mnha-hls-3.github.io/vtvgo-timeshift.vtvdigital.vn/6c8948913e93c838f1d2dca1a7b1ec66/1636210461699/timeshift/tssrv01/vtv1/_definst_/20211106/vtv1-high-3333086.m3u8'},
+{'name': '06:58 07/11/2021','image': 'https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png','url': 'https://raw.githubusercontent.com/mnha25/mnha25.github.io/main/vtvgo-timeshift.vtvdigital.vn/9ef84c6583fd2c0fc3968db9526575a1/1636259348981/timeshift/tssrv01/vtv1/_definst_/20211107/vtv1-high-3334059.m3u8'},
+{'name': '05:30 07/11/2021','image': 'https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png','url': 'https://raw.githubusercontent.com/mnha24/mnha24.github.io/main/vtvgo-timeshift.vtvdigital.vn/77ba646c3775111df0653a834a118699/1636258867721/timeshift/tssrv01/vtv1/_definst_/20211107/vtv1-high-3334059.m3u8'},
+{'name': '17:22 06/11/2021','image': 'https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png','url': 'https://raw.githubusercontent.com/mnha-hls-3/mnha-hls-3.github.io/main/vtvgo-timeshift.vtvdigital.vn/6c8948913e93c838f1d2dca1a7b1ec66/1636210461699/timeshift/tssrv01/vtv1/_definst_/20211106/vtv1-high-3333086.m3u8'},
 ]}
