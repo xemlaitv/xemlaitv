@@ -1,0 +1,11 @@
+{"name": "Animax (Năm 2021) - Xem lại chương trình truyền hình",
+"author": "mnhawiseplay",
+"image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/Animax.png",
+"url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/2021/README.w3u",
+"info": "mnhawiseplay",
+"groups": [{
+"name":"Importar Listas","image": "https://i.imgur.com/YAaMwxN.png","stations":[
+  {"name": "Tháng 11","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/Animax.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/2021/thang11/README.w3u","import": "true"},
+]},
+      {"name": "Tháng 11","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/Animax.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/2021/thang11/README.w3u"},
+]}
