@@ -5,13 +5,13 @@
 "info": "mnhawiseplay♥",
 "groups": [{
 "name":"Importar Listas","image": "https://i.imgur.com/YAaMwxN.png","stations":[
-           {"name": "VTV1 HD","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/README.w3u","import": "true"},
-           {"name": "HTV3","image": "https://user-images.githubusercontent.com/75318518/141451675-261ee3f7-15d4-4dcb-9f37-7c8bf2d5402c.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/htv3/README.w3u","import": "true"},
-           {"name": "Animax","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/Animax.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/README.w3u","import": "true"},
-           {"name": "Cartoon Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/README.w3u","import": "true"},
-]},
-                  {"name": "VTV1 HD","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/README.w3u","import": "true"},
-                  {"name": "HTV3","image": "https://user-images.githubusercontent.com/75318518/141451675-261ee3f7-15d4-4dcb-9f37-7c8bf2d5402c.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/htv3/README.w3u"},
-                  {"name": "Animax","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/Animax.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/README.w3u"},
-                  {"name": "Cartoon Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/README.w3u"},
-]}
+    {"name": "VTV1 HD","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/README.w3u","import": "true"},
+    {"name": "HTV3","image": "https://user-images.githubusercontent.com/75318518/141451675-261ee3f7-15d4-4dcb-9f37-7c8bf2d5402c.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/htv3/README.w3u","import": "true"},
+    {"name": "Animax","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/Animax.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/README.w3u","import": "true"},
+    {"name": "Cartoon Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/README.w3u","import": "true"},
+        ]},
+          {"name": "VTV1 HD","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/1__.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/vtv1hd/README.w3u","import": "true"},
+          {"name": "HTV3","image": "https://user-images.githubusercontent.com/75318518/141451675-261ee3f7-15d4-4dcb-9f37-7c8bf2d5402c.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/htv3/README.w3u"},
+          {"name": "Animax","image": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/Animax.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/animaxhd/README.w3u"},
+          {"name": "Cartoon Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png","url": "https://raw.githubusercontent.com/xemlaitv/xemlaitv/main/cartoonhd/README.w3u"},
+           ]}
